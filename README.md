@@ -9,10 +9,10 @@ A final group project that models, loads, queries, and analyzes a [scenario, e.g
 
 | Member | Primary Focus |
 |---|---|
-| Damian Mendoza | [e.g., Architecture/research + technical documentation] |
-| Ingri Quevedo | [e.g., Installation/configuration + data loading] |
-| Stephanie Armstrong | [e.g., Data modeling + queries/testing] |
-| Hassan Saleh H Alshamrani | [e.g., MySQL comparison + integration/presentation] |
+| Damian Mendoza | TBD [e.g., Architecture/research + technical documentation] |
+| Ingri Quevedo | TBD [e.g., Installation/configuration + data loading] |
+| Stephanie Armstrong | TBD [e.g., Data modeling + queries/testing] |
+| Hassan Saleh H Alshamrani | TBD [e.g., MySQL comparison + integration/presentation] |
 
 All members understand the full project and contributed to every section.
 
@@ -37,9 +37,9 @@ All members understand the full project and contributed to every section.
 ## Project Overview
 
 - **Database:** Apache CouchDB [version]
-- **Scenario:** [1–2 sentences describing the business scenario]
-- **Dataset:** [name, source, size, number of documents]
-- **Goal:** Show how a document-oriented, HTTP-based, revision-aware database handles [scenario] differently than a normalized relational design.
+- **Scenario:** TBD [1–2 sentences describing the business scenario]
+- **Dataset:** TBD [name, source, size, number of documents]
+- **Goal:** Show how a document-oriented, HTTP-based, revision-aware database handles TBD [scenario] differently than a normalized relational design.
 
 ## Why CouchDB?
 
