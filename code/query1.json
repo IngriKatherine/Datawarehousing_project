@@ -1,0 +1,6 @@
+{
+  "selector": { "userId": "syn_usr_003" },
+  "fields": ["_id", "userId", "status", "createdAt", "deliveredAt", "total", "items"],
+  "sort": [ { "userId": "asc" }, { "createdAt": "asc" } ],
+  "limit": 100
+}

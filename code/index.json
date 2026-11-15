@@ -1,0 +1,5 @@
+{
+  "index": { "fields": ["userId", "createdAt"] },
+  "name": "idx-userId-createdAt",
+  "type": "json"
+}
